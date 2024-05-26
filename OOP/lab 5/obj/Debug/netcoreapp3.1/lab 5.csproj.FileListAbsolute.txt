@@ -1,0 +1,13 @@
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.exe
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.deps.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.runtimeconfig.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.runtimeconfig.dev.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\bin\Debug\netcoreapp3.1\lab 5.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.AssemblyInfoInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.AssemblyInfo.cs
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 5\obj\Debug\netcoreapp3.1\lab 5.genruntimeconfig.cache
