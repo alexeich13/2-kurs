@@ -1,0 +1,13 @@
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.exe
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.deps.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.runtimeconfig.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.runtimeconfig.dev.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\bin\Debug\netcoreapp3.1\laba 2.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.AssemblyInfoInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.AssemblyInfo.cs
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\laba 2\obj\Debug\netcoreapp3.1\laba 2.genruntimeconfig.cache
