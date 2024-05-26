@@ -1,0 +1,13 @@
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.exe
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.deps.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.runtimeconfig.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.runtimeconfig.dev.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\bin\Debug\netcoreapp3.1\1 laba.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.AssemblyInfoInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.AssemblyInfo.cs
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\1 laba\obj\Debug\netcoreapp3.1\1 laba.genruntimeconfig.cache
