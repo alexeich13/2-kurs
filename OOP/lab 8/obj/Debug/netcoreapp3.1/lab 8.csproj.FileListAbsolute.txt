@@ -1,0 +1,13 @@
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.exe
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.deps.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.runtimeconfig.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.runtimeconfig.dev.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\bin\Debug\netcoreapp3.1\lab 8.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.AssemblyInfoInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.AssemblyInfo.cs
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OOP\lab 8\obj\Debug\netcoreapp3.1\lab 8.genruntimeconfig.cache
