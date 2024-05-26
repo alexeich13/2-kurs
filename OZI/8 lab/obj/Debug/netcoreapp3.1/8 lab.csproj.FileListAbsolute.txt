@@ -1,0 +1,13 @@
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.exe
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.deps.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.runtimeconfig.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.runtimeconfig.dev.json
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\bin\Debug\netcoreapp3.1\8 lab.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.csproj.AssemblyReference.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.AssemblyInfoInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.AssemblyInfo.cs
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.csproj.CoreCompileInputs.cache
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.dll
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.pdb
+C:\BSTU\2 kurs\2 kurs 1 sem\OZI\8 lab\obj\Debug\netcoreapp3.1\8 lab.genruntimeconfig.cache
