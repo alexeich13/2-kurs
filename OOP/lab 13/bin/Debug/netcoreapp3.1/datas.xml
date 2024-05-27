@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTestXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TestXml>
+    <Name>Alexey8</Name>
+    <Age>32</Age>
+  </TestXml>
+  <TestXml>
+    <Name>Alexey9</Name>
+    <Age>32</Age>
+  </TestXml>
+  <TestXml>
+    <Name>Alexey10</Name>
+    <Age>32</Age>
+  </TestXml>
+</ArrayOfTestXml>
