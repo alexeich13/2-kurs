@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("Fonts/Roboto/Roboto-Regular.ttf");
+  }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #F8F4F4;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    background-color: #000000;
+}
+
+ul {
+    list-style: none;
+}
+
+.wrapper {
+    max-width: 1100px;
+    padding: 0 15px;
+}
+
+.header {
+    background:#2D2626;
+}
+
+.header .wrapper{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header .wrapper .header_logo img {
+    height: 90px;
+}
+.header .wrapper .header_loc{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #fbf8f8;
+}
+.header .wrapper .header_loc img{
+    height: 60px;
+    margin-top: 10px;
+}
+.header .wrapper .header_tel{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #fbf8f8;
+}
+.header .wrapper .header_tel img{
+    height: 60px;
+    margin-top: 10px;
+}
+
+.navigation .wrapper {
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+.navigation .wrapper .nav ul{
+  padding-top: 10p;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation .wrapper .nav ul .active_pages {
+  padding-bottom: 8px;
+  border-bottom: 4px solid #a34b4b;
+}
+.navigation .wrapper .nav ul li {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+.navigation .wrapper .nav ul li:hover {
+    background-color: #a34b4b;
+}
+.header .wrapper .header__nav .nav_header ul li a {
+    padding: 10px 20px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    height: 100%;
+    line-height: 37px;
+    text-align: center;
+    color: #fbf8f8;
+}
+
+.main_photo .photo{
+    text-align: center;
+    position: relative;
+    color: #F8F4F4;
+    
+}
+.main_photo .wrapper .photo img{
+    padding: 0 0;
+    width: 1800px;
+}
+.main_photo .photo .photo_content{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
